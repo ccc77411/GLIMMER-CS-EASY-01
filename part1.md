@@ -49,7 +49,8 @@
 - 内置终端打印 "hello world"   
   <img width="2487" height="1456" alt="image" src="https://github.com/user-attachments/assets/363ebae2-3158-4c56-b97f-e4bf26be8ed0" />
 - 外置终端打印 "hello world"
-  <img width="2556" height="1486" alt="image" src="https://github.com/user-attachments/assets/05a34a0a-1e24-417d-b7fd-3f0856435649" />
+  <img width="1269" height="733" alt="image" src="https://github.com/user-attachments/assets/17c8a0b3-3f90-4062-b45c-51d02982612e" />
+
 
 
 
