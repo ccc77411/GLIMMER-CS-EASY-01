@@ -15,9 +15,10 @@
 - 作用：安装插件可以让编译器识别C语言，可以调用GCC等来进行编译和调试，并还可以进行错误检查。  
 ## 图片说明  
 - 内置终端打印 "hello world"   
-![alt text](image-1.png)）  
+  <img width="2487" height="1456" alt="image" src="https://github.com/user-attachments/assets/363ebae2-3158-4c56-b97f-e4bf26be8ed0" />
 - 外置终端打印 "hello world"
-![alt text](image-2.png)
+  <img width="2556" height="1486" alt="image" src="https://github.com/user-attachments/assets/05a34a0a-1e24-417d-b7fd-3f0856435649" />
+
 
 
 
