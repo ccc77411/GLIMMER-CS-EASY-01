@@ -4,7 +4,7 @@
 
 - **GCC**的全称为 **GNU Compiler Collection**，通常是指GNU编译器套装，是一套开源的编译器工具集。  
 作用：可用来编译C语言源代码，同时也可把C语言源代码翻译成电脑能执行的程序。  
-- **MinGW**是一个Windows系统下的GCC的移植版本。 
+- **MinGW**是一个Windows系统下的GCC的移植版本。   
 作用：可让我们在Windows系统下下载GCC编译器，GDB调试器，让我们能在Windows上编译，调试C语言代码。   
 2. **c_cpp_properties.json launch.json tasks.json这三个文件分别有什么作用？**  
 -  **c_cpp_properties.json**是用来配置C/C++拓展的，它可以通过配置编译器路径，头文件位置等让编译器能进行代码提示和错误检查。  
