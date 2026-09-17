@@ -28,29 +28,31 @@
 - **do...while循环**是先进行一次循环，再来进行条件判断。  
 ####  while 循环和 do…while 循环结构异同演示  
 - **while循环**  
-    >\#include<stdio.h>  
-    int main(){   
-            int i=1;  
+  ````
+  #include<stdio.h>
+  int main(){
+        int i=1;
         int sum=0;  
         while(i<=10){  
             sum+=i;  
             i++;  
         }  
         printf("%d",sum);  
-        return 0;  
+        return 0;
     }    
-- **do...while循环**  
-    >\#include<stdio.h>  
+- **do...while循环**
+   ````
+   #include<stdio.h>  
     int main(){  
-    int i=1;  
-    int sum=0;  
-    do{  
-        sum+=i;  
-        i++;  
-    }while(i<=10);  
-    printf("%d",sum);   
-    return 0;  
-}  
+        int i=1;  
+        int sum=0;  
+        do{  
+            sum+=i;  
+            i++;  
+        }while(i<=10);  
+        printf("%d",sum);   
+        return 0;  
+    }  
     
 ## 4.流程控制 - 逻辑表达式  
 ### 在条件判断（如 if, else if）和循环条件中使用的逻辑表达式（如`age > 18 && score >= 60`）与算术表达式（如`a + b * c`）有何本质区别(尝试从运算对象和运算结果分析)？  
