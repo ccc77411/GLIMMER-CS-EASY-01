@@ -10,10 +10,7 @@ int b(int x,int y,int z){
     return 3 * p - f / 3; 
 }
 
-int dy(){
-    int zh1;
-    int zh2;
-    int zh3;
+int dy(int zh1,int zh2,int zh3){
 
     if (zh1 >= zh2 && zh2 >= zh3) {
       printf("小明 > 小强 > 小林");
