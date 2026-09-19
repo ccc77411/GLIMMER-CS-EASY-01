@@ -1,6 +1,7 @@
 # part3_函数  
 ## 一.精简函数的结果  
-<img width="2430" height="1453" alt="image" src="https://github.com/user-attachments/assets/045c9010-7b4d-416f-a073-cb6f81d8adf8" />
+<img width="1010" height="712" alt="image" src="https://github.com/user-attachments/assets/ff30da4d-0fd8-4d76-ade1-d7199955e41c" />
+
  
 ## 二.文字回答部分  
 ### 1.猜猜下列函数的效果(你可以自行运行，看看结果怎么样)，尝试从值传递的角度入手，说说为什么会这样   
