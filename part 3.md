@@ -29,4 +29,4 @@ int main(){
  <img width="2001" height="1417" alt="image" src="https://github.com/user-attachments/assets/9142dc72-90fc-401f-a140-7bf7c047b768" />
  
 ---  
-- PS：对swap()函数的修改稍微借助了AI帮忙，因为一开始只是添加了&，虽然能运行但一直有报错后求助了AI,才在swap()函数中每个a和b前加了*，虽然目前不是很懂为什么不加*也能运行。
+- PS：对swap()函数的修改稍微借助了AI帮忙，因为一开始只是添加了&，虽然能运行但一直有报错后求助了AI,才在swap()函数中每个a和b前加了*，应该是因为temp是一个普通变量所以应该对a和b解指针再交换值。
